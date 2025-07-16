@@ -1,0 +1,13 @@
+
+---------------RESULT--------------
+Roll Number        :121
+Name               :kedar
+Subject 1          :java
+Marks of subject 1 :90.000000
+Subject 2          :python
+Marks of subject 2 :98.000000
+Subject 3          :c
+Marks of subject 3 :89.000000
+Total Marks        :277.000000
+Average Marks      :92.333336
+Grade              :O
